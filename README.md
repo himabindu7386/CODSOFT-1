@@ -9,10 +9,9 @@ It responds to user queries using predefined rules.
 ### Technology Used
 - Python
 
-  
 ##Task 2: Tic-Tac-Toe AI using Minimax Algorithm
 
 This project implements a Tic-Tac-Toe game in Python featuring an AI opponent powered by the Minimax algorithm, enabling the computer to make optimal moves and play intelligently against the user.
 
-###Technology Used
--Python
+##Technology Used
+Python
