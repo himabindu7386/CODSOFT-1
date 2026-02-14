@@ -74,4 +74,4 @@ while True:
     if is_winner('O'):
         print_board()
         print("AI wins!")
-        break6
+        break
