@@ -39,9 +39,10 @@ This project implements a face detection system using Python and OpenCV. It uses
 Technology Used
 
 Python
+
 OpenCV
+
 Matplotlib
+
 Google Colab
 
-You can directly copy and paste this into your README.md file.
-If you want, I can also format it in bold style like your previous tasks 😊
