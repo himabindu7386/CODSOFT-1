@@ -1,6 +1,9 @@
 CODSOFT-1
+
 Artificial Intelligence Internship Tasks
+
 CODSOFT Artificial Intelligence Internship
+
 Task 1: Chatbot with Rule-Based Responses
 
 This project implements a simple rule-based chatbot using Python. It responds to user queries using predefined rules.
@@ -24,7 +27,9 @@ This project implements a basic movie recommendation system using Python and cos
 Technology Used
 
 Python
+
 Pandas
+
 Scikit-learn
 
 Task 5: Face Detection  And Recognition 
